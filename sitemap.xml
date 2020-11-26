@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://hubright.eu/index.html</loc>
+    <lastmod>2020-11-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://hubright.eu/images/ikony-hbr-9.svg</image:loc>
+      <image:caption>nowy model, but sportowy z metką i nową ceną, sneakers adidas lub nike</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://hubright.eu/images/ikony-hbr-1.svg</image:loc>
+      <image:caption>ikona z nową koszulką sportową, nowe buty sportowe, nowym bidonem sportowym i efektem gwiazdek</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://hubright.eu/images/ikony-hbr-2.svg</image:loc>
+      <image:caption>ikona z torba na zakupy, myszka, znacznik map, dostawa do klienta</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://hubright.eu/images/ikony-hbr-5.svg</image:loc>
+      <image:caption>ikona papierowej torby na zakupy z metką promocyjną</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://hubright.eu/images/ikony-hbr-3.svg</image:loc>
+      <image:caption>ikona otwartego kartonu na zamowienie sportowe ze strzałką od góry</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://hubright.eu/images/ikony-hbr-4.svg</image:loc>
+      <image:caption>ikona kobiety pracujacej w sklepie sportowym z dymkami rozmów</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://hubright.eu/images/ikony-hbr-8.svg</image:loc>
+      <image:caption>ikona otwartej koperty z wystającym listem</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://hubright.eu/images/ikony-hbr-6.svg</image:loc>
+      <image:caption>logo sklepu sportowego dla klientów indywidualnych</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://hubright.eu/images/ikony-hbr-7.svg</image:loc>
+      <image:caption>logo internetowej hurtowni dla klientów B2B z butami sportowymi, odzieżą sporrtową, akcerosiami sportowymi</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://hubright.eu/images/hubright_logo.svg</image:loc>
+      <image:caption>logo internetowej hurtowni dla klientów B2B z butami sportowymi, odzieżą sporrtową, akcerosiami sportowymi</image:caption>
+    </image:image>
+  </url>
+</urlset>
