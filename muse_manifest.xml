@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="hubright.eu" resolutions="1x" timestamp="1606321566593">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="hubright.eu" resolutions="1x" timestamp="1606689036060">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-wzorcowa.css" crc="311841291" ref="index"/>
-    <file name="nomq_preview_master_a-wzorcowa.css" crc="104942790" ref="index"/>
-    <file name="index.css" crc="3936806571" ref="index"/>
-    <file name="nomq_index.css" crc="360724998" ref="index"/>
+    <file name="master_a-wzorcowa.css" crc="78306615" ref="index"/>
+    <file name="nomq_preview_master_a-wzorcowa.css" crc="3855500966" ref="index"/>
+    <file name="index.css" crc="3860083615" ref="index"/>
+    <file name="nomq_index.css" crc="3897465750" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -23,9 +23,11 @@
     <file name="ikony-hbr-9.svg" crc="4223916085" seo="true" ref="index">
       <caption webpage="index" alt="nowy model, but sportowy z metką i nową ceną, sneakers adidas lub nike"/>
       <caption webpage="index" alt="nowy model, but sportowy z metką i nową ceną, sneakers adidas lub nike"/>
+      <caption webpage="index" alt="nowy model, but sportowy z metką i nową ceną, sneakers adidas lub nike"/>
     </file>
     <file name="ikony-hbr-9_poster_.png" crc="4180186047" ref="index"/>
     <file name="ikony-hbr-1.svg" crc="141244204" seo="true" ref="index">
+      <caption webpage="index" alt="ikona z nową koszulką sportową, nowe buty sportowe, nowym bidonem sportowym i efektem gwiazdek"/>
       <caption webpage="index" alt="ikona z nową koszulką sportową, nowe buty sportowe, nowym bidonem sportowym i efektem gwiazdek"/>
       <caption webpage="index" alt="ikona z nową koszulką sportową, nowe buty sportowe, nowym bidonem sportowym i efektem gwiazdek"/>
     </file>
@@ -33,9 +35,11 @@
     <file name="ikony-hbr-2.svg" crc="4046738447" seo="true" ref="index">
       <caption webpage="index" alt="ikona z torba na zakupy, myszka, znacznik map, dostawa do klienta"/>
       <caption webpage="index" alt="ikona z torba na zakupy, myszka, znacznik map, dostawa do klienta"/>
+      <caption webpage="index" alt="ikona z torba na zakupy, myszka, znacznik map, dostawa do klienta"/>
     </file>
     <file name="ikony-hbr-2_poster_.png" crc="3794739734" ref="index"/>
     <file name="ikony-hbr-5.svg" crc="3759645275" seo="true" ref="index">
+      <caption webpage="index" alt="ikona papierowej torby na zakupy z metką promocyjną"/>
       <caption webpage="index" alt="ikona papierowej torby na zakupy z metką promocyjną"/>
       <caption webpage="index" alt="ikona papierowej torby na zakupy z metką promocyjną"/>
     </file>
@@ -43,9 +47,11 @@
     <file name="ikony-hbr-3.svg" crc="77103221" seo="true" ref="index">
       <caption webpage="index" alt="ikona otwartego kartonu na zamowienie sportowe ze strzałką od góry "/>
       <caption webpage="index" alt="ikona otwartego kartonu na zamowienie sportowe ze strzałką od góry "/>
+      <caption webpage="index" alt="ikona otwartego kartonu na zamowienie sportowe ze strzałką od góry "/>
     </file>
     <file name="ikony-hbr-3_poster_.png" crc="276026892" ref="index"/>
     <file name="ikony-hbr-4.svg" crc="4108621695" seo="true" ref="index">
+      <caption webpage="index" alt="ikona kobiety pracujacej w sklepie sportowym z dymkami rozmów"/>
       <caption webpage="index" alt="ikona kobiety pracujacej w sklepie sportowym z dymkami rozmów"/>
       <caption webpage="index" alt="ikona kobiety pracujacej w sklepie sportowym z dymkami rozmów"/>
     </file>
@@ -53,9 +59,11 @@
     <file name="ikony-hbr-8.svg" crc="4027726493" seo="true" ref="index">
       <caption webpage="index" alt="ikona otwartej koperty z wystającym listem"/>
       <caption webpage="index" alt="ikona otwartej koperty z wystającym listem"/>
+      <caption webpage="index" alt="ikona otwartej koperty z wystającym listem"/>
     </file>
     <file name="ikony-hbr-8_poster_.png" crc="156612988" ref="index"/>
     <file name="ikony-hbr-6.svg" crc="409387361" seo="true" ref="index">
+      <caption webpage="index" alt="logo sklepu sportowego dla klientów indywidualnych "/>
       <caption webpage="index" alt="logo sklepu sportowego dla klientów indywidualnych "/>
       <caption webpage="index" alt="logo sklepu sportowego dla klientów indywidualnych "/>
     </file>
@@ -63,14 +71,17 @@
     <file name="ikony-hbr-7.svg" crc="4169752875" seo="true" ref="index">
       <caption webpage="index" alt="logo internetowej hurtowni dla klientów B2B z butami sportowymi, odzieżą sporrtową, akcerosiami sportowymi"/>
       <caption webpage="index" alt="logo internetowej hurtowni dla klientów B2B z butami sportowymi, odzieżą sporrtową, akcerosiami sportowymi"/>
+      <caption webpage="index" alt="logo internetowej hurtowni dla klientów B2B z butami sportowymi, odzieżą sporrtową, akcerosiami sportowymi"/>
     </file>
     <file name="ikony-hbr-7_poster_.png" crc="3936613987" ref="index"/>
     <file name="hubright_logo.svg" crc="3889007918" seo="true" ref="index">
       <caption webpage="index" alt="logo internetowej hurtowni dla klientów B2B z butami sportowymi, odzieżą sporrtową, akcerosiami sportowymi"/>
       <caption webpage="index" alt="logo internetowej hurtowni dla klientów B2B z butami sportowymi, odzieżą sporrtową, akcerosiami sportowymi"/>
+      <caption webpage="index" alt="logo internetowej hurtowni dla klientów B2B z butami sportowymi, odzieżą sporrtową, akcerosiami sportowymi"/>
     </file>
     <file name="hubright_logo_poster_.png" crc="121441511" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="internetowy-hub-sportowy-(b2b)-favicon.ico" crc="4043643833" ref="index"/>
   </folder>
-  <file name="index.html" crc="6842925" seo="true" mt="1606321488432" redirect="true"/>
+  <file name="index.html" crc="4025560730" seo="true" mt="1606688997625" redirect="true"/>
 </manifest>
